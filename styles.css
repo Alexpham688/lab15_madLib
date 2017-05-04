@@ -1,0 +1,64 @@
+#container {
+
+  width: 495px;
+  height: 90px;
+  margin:0 auto;
+}
+span {
+  font-size:1.5em;
+  color:red;
+  font-family: comic sans ms;
+}
+p {
+  font-size: 1.5em;
+  color:white;
+
+}
+.displayWords {
+  color:red;
+}
+h1 {
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+  color:orange;
+  text-shadow: 2px 2px white;
+
+}
+body{
+  background-image: url("image.jpg");
+  background-size: cover;
+}
+/*input::placeholder {
+  color: red;*/
+
+button {
+  font-size:20px;
+  color : white;
+  background-color: #025AFF;
+  box-shadow: 2px 2px orange;
+  margin: 10px;
+  cursor: pointer;
+
+
+}
+nav {
+
+  text-align: center;
+}
+.link {
+  font-size: 1.2em;
+  color:white;
+  background-color:#025AFF;
+  box-shadow: 2px 2px orange;
+}
+input {
+  width:150px;
+  height:40px;
+  padding:12px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px orange;
+  color: red;
+  font-size: 1.5em;
+  font-family: comic sans ms;
+}
